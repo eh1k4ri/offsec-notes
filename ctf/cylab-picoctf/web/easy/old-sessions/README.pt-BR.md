@@ -1,7 +1,5 @@
 # Cylab - Old Sessions
 
-🇺🇸 [English version](./README.md)
-
 | Info         | Detalhe                     |
 |--------------|------------------------------|
 | Plataforma   | picoCTF                     |
