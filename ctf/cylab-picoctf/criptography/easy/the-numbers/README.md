@@ -2,10 +2,9 @@
 
 | Info         | Detail                |
 |--------------|------------------------|
-| Platform     | picoCTF 2019           |
+| Platform     | picoCTF           |
 | Category     | Cryptography           |
 | Difficulty   | Easy                   |
-| Author       | Danny                  |
 | Status       | ✅ Completed            |
 
 ## Table of Contents

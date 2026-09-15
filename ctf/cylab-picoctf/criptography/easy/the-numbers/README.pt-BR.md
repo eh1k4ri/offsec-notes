@@ -2,10 +2,9 @@
 
 | Info         | Detalhe                |
 |--------------|--------------------------|
-| Plataforma   | picoCTF 2019             |
+| Plataforma   | picoCTF            |
 | Categoria    | Cryptography             |
 | Dificuldade  | Easy                     |
-| Autor        | Danny                    |
 | Status       | ✅ Resolvido              |
 
 ## Sumário
